@@ -76,7 +76,7 @@ For machine translation (MT) tasks, purely data-driven approaches have been domi
 3. [Linguistically Motivated Evaluation of the 2023 State-of-the-art Machine Translation: Can ChatGPT Outperform NMT?](https://aclanthology.org/2023.wmt-1.23) - Manakhimova et al
 
 ## Authors
-
-- **Haiyue Song** (National Institute of Information and Communications Technology, Japan)
-- **Hour Kaing** (National Institute of Information and Communications Technology, Japan)
-- **Raj Dabre** (National Institute of Information and Communications Technology, Japan)
+**Haiyue Song**, **Hour Kaing**, **Raj Dabre**  
+National Institute of Information and Communications Technology (NICT)  
+Hikaridai 3-5, Seika-cho, Soraku-gun, Kyoto, Japan  
+\texttt{\{haiyue.song,hour\_kaing,raj.dabre\}@nict.go.jp}
