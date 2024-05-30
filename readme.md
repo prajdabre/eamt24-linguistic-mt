@@ -73,7 +73,7 @@ For machine translation (MT) tasks, purely data-driven approaches have been domi
 #### 5. Linguistically Motivated Evaluation
 1. [Linguistic Evaluation for the 2021 State-of-the-art Machine Translation Systems for German to English and English to German](https://aclanthology.org/2021.wmt-1.115) - Macketanz et al., 2021
 2. [Linguistically Motivated Evaluation of Machine Translation Metrics Based on a Challenge Set](https://aclanthology.org/2022.wmt-1.45) - Avramidis and Macketanz, 2022
-3. [Linguistically Motivated Evaluation of the 2023 State-of-the-art Machine Translation: Can ChatGPT Outperform NMT?](https://aclanthology.org/2023.wmt-1.23) - Manakhimova et al
+3. [Linguistically Motivated Evaluation of the 2023 State-of-the-art Machine Translation: Can ChatGPT Outperform NMT?](https://aclanthology.org/2023.wmt-1.23) - Manakhimova et al, 2023
 
 ## Authors
 
