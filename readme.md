@@ -23,27 +23,27 @@ For machine translation (MT) tasks, purely data-driven approaches have been domi
 
 ### Reading List
 
-
-### Reading List
-
 #### 1. Introduction to Neural Machine Translation
-1. [Neural Machine Translation: Basics, Practical Aspects and Recent Trends](https://aclanthology.org/I17-5004.pdf)
+1. [Neural Machine Translation: Basics, Practical Aspects and Recent Trends](https://aclanthology.org/I17-5004.pdf) - Dabre et al., 2017
 2. [Attention is All you Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) - Vaswani et al., 2017
+3. [Neural Machine Translation by Jointly Learning to Align and Translate](http://arxiv.org/abs/1409.0473) - Bahdanau et al., 2016
+
 
 #### 2. Linguistically Motivated Tokenization and Transfer Learning
 1. [Juman++: A Morphological Analysis Toolkit for Scriptio Continua](https://aclanthology.org/D18-2010) - Tolmachev et al., 2018
-2. [Linguistically Motivated Vocabulary Reduction for Neural Machine Translation from Turkish to English](https://arxiv.org/abs/1707.09879) - Ataman et al., 2017
-3. [Linguistically Motivated Subwords for English-Tamil Translation: University of Groningen’s Submission to WMT-2020](https://aclanthology.org/2020.wmt-1.9) - Dhar et al., 2020
-4. [Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation](https://aclanthology.org/2020.acl-main.275) - He et al., 2020
-5. [BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation](https://aclanthology.org/2022.aacl-short.12) - Song et al., 2022
-6. [MorphyNet: a Large Multilingual Database of Derivational and Inflectional Morphology](https://aclanthology.org/2021.sigmorphon-1.5) - Batsuren et al., 2021
-7. [Pre-training via Leveraging Assisting Languages for Neural Machine Translation](https://aclanthology.org/2020.acl-srw.37) - Song et al., 2020
-8. [IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages](https://openreview.net/forum?id=vfT4YuzAYA) - Gala et al., 2023
-9. [IndicBART: A Pre-trained Model for Natural Language Generation of Indic Languages](https://arxiv.org/abs/2109.02903) - Dabre et al., 2021
-10. [On Romanization for Model Transfer Between Scripts in Neural Machine Translation](https://aclanthology.org/2020.findings-emnlp.223) - Amrhein and Sennrich, 2020
-11. [RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models models via Romanization](https://arxiv.org/abs/2401.14280) - Husain et al., 2024
-12. [CharSpan: Utilizing Lexical Similarity to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages](https://arxiv.org/abs/2305.05214) - Maurya et al., 2024
-13. [SelectNoise: Unsupervised Noise Injection to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages](https://aclanthology.org/2023.findings-emnlp.109) - Brahma et al., 2023
+2. [Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation](https://aclanthology.org/2020.acl-main.275) - He et al., 2020
+3. [BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation](https://aclanthology.org/2022.aacl-short.12) - Song et al., 2022
+4. [MorphyNet: a Large Multilingual Database of Derivational and Inflectional Morphology](https://aclanthology.org/2021.sigmorphon-1.5) - Batsuren et al., 2021
+5. [Linguistically Motivated Vocabulary Reduction for Neural Machine Translation from Turkish to English](https://arxiv.org/abs/1707.09879) - Ataman et al., 2017
+6. [Linguistically Motivated Subwords for English-Tamil Translation: University of Groningen’s Submission to WMT-2020](https://aclanthology.org/2020.wmt-1.9) - Dhar et al., 2020
+7. [Neural Machine Translation of Logographic Languages Using Sub-character Level Information](https://aclanthology.org/W18-6303.pdf)
+8. [On Romanization for Model Transfer Between Scripts in Neural Machine Translation](https://aclanthology.org/2020.findings-emnlp.223) - Amrhein and Sennrich, 2020
+9. [RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models models via Romanization](https://arxiv.org/abs/2401.14280) - Husain et al., 2024
+10. [CharSpan: Utilizing Lexical Similarity to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages](https://arxiv.org/abs/2305.05214) - Maurya et al., 2024
+11. [SelectNoise: Unsupervised Noise Injection to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages](https://aclanthology.org/2023.findings-emnlp.109) - Brahma et al., 2023
+12. [Pre-training via Leveraging Assisting Languages for Neural Machine Translation](https://aclanthology.org/2020.acl-srw.37) - Song et al., 2020
+13. [IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages](https://openreview.net/forum?id=vfT4YuzAYA) - Gala et al., 2023
+14. [IndicBART: A Pre-trained Model for Natural Language Generation of Indic Languages](https://arxiv.org/abs/2109.02903) - Dabre et al., 2021
 
 #### 3. Augmenting NMT Architectures with Linguistic Features
 1. [Linguistic Input Features Improve Neural Machine Translation](https://aclanthology.org/W16-2209) - Sennrich and Haddow, 2016
