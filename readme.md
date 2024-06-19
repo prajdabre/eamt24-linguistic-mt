@@ -13,44 +13,46 @@ The official repo for the tutorial "**Linguistically Motivated Neural Machine Tr
 ## Programme
 #### **Date**: JUNE 27, 2024 (Thursday)
 
-<table>
+<table style="width:100%">
   <tr>
-    <th style="text-align:center">Time</th>
-    <th style="text-align:center"></th>
+    <th style="text-align:left; width:20%"><strong style="font-size: 1.2em;">Time</strong></th>
+    <th style="text-align:left; width:80%"></th>
   </tr>
   <tr>
-    <td style="text-align:center">9:00-9:20</td>
-    <td style="text-align:center">Introduction</td>
+    <td style="text-align:left"><strong style="font-size: 1.2em;">9:00-9:20</strong></td>
+    <td style="text-align:left">Introduction</td>
   </tr>
   <tr>
-    <td style="text-align:center">9:20-10:20</td>
-    <td style="text-align:center">Augmenting NMT Architectures with Lin-<br>guistic Features</td>
+    <td style="text-align:left"><strong style="font-size: 1.2em;">9:20-10:20</strong></td>
+    <td style="text-align:left">Augmenting NMT Architectures with Linguistic Features</td>
   </tr>
   <tr>
-    <td style="text-align:center">10:20-10:50</td>
-    <td style="text-align:center">Coffee break</td>
+    <td style="text-align:left"><strong style="font-size: 1.2em;">10:20-10:50</strong></td>
+    <td style="text-align:left; color: purple; font-size: 1.2em ;">Coffee break</td>
   </tr>
   <tr>
-    <td style="text-align:center">10:50-11:20</td>
-    <td style="text-align:center">Linguistically Motivated Tokenization and<br>Transfer Learning</td>
+    <td style="text-align:left"><strong style="font-size: 1.2em;">10:50-11:20</strong></td>
+    <td style="text-align:left">Linguistically Motivated Tokenization and Transfer Learning</td>
   </tr>
   <tr>
-    <td style="text-align:center">11:20-11:40</td>
-    <td style="text-align:center">Linguistically Aware Decoding</td>
+    <td style="text-align:left"><strong style="font-size: 1.2em;">11:20-11:40</strong></td>
+    <td style="text-align:left">Linguistically Aware Decoding</td>
   </tr>
   <tr>
-    <td style="text-align:center">11:40-12:00</td>
-    <td style="text-align:center">Linguistically Motivated Evaluation</td>
+    <td style="text-align:left"><strong style="font-size: 1.2em;">11:40-12:00</strong></td>
+    <td style="text-align:left">Linguistically Motivated Evaluation</td>
   </tr>
   <tr>
-    <td style="text-align:center">12:00-12:15</td>
-    <td style="text-align:center">Conclusions</td>
+    <td style="text-align:left"><strong style="font-size: 1.2em;">12:00-12:15</strong></td>
+    <td style="text-align:left">Conclusions</td>
   </tr>
   <tr>
-    <td style="text-align:center">12:15-12:30</td>
-    <td style="text-align:center">QA</td>
+    <td style="text-align:left"><strong style="font-size: 1.2em;">12:15-12:30</strong></td>
+    <td style="text-align:left">QA</td>
   </tr>
 </table>
+
+
 
 ## Introduction
 The tutorial focuses on incorporating linguistics into different stages of the neural machine translation (NMT) pipeline, from pre-processing to model training to evaluation.
