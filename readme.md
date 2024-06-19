@@ -11,7 +11,8 @@ The official repo for the tutorial "**Linguistically Motivated Neural Machine Tr
 | ![Raj Dabre](fig/raj.jpg) | <a href="https://prajdabre.github.io/" style="color:#D42D50; text-decoration: underline;">**Raj Dabre**</a> is a senior researcher at the Advanced Translation Technology Laboratory, National Institute of Information and Communications Technology (NICT), Japan and an Adjunct Faculty at IIT Madras, India. He received his Ph.D. from Kyoto University and Masters from IIT Bombay. His primary interests are in low-resource NLP, language modeling and efficiency. He has published in ACL, EMNLP, NAACL, TMLR, AAAI, AACL, IJCNLP and CSUR. |
 
 ## Programme
-#### **Date**: JUNE 27, 2024 (Thursday)
+#### **Date**: June 27, 2024 (Thursday), 9:00 AM - 12:30 PM
+
 
 <table style="width:100%">
   <tr>
