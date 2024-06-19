@@ -28,7 +28,7 @@ The official repo for the tutorial "**Linguistically Motivated Neural Machine Tr
   </tr>
   <tr>
     <td style="text-align:left"><strong style="font-size: 1.2em;">10:20-10:50</strong></td>
-    <td style="text-align:left; color: orange; font-size: 1.5em ;">Coffee break</td>
+    <td style="text-align:left; color: orange; font-size: 1.5em; text-decoration: underline;">Coffee break</td>
   </tr>
   <tr>
     <td style="text-align:left"><strong style="font-size: 1.2em;">10:50-11:20</strong></td>
