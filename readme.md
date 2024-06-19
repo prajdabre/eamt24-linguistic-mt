@@ -1,6 +1,7 @@
 # Linguistically Motivated Neural Machine Translation
-The official repo for the tutorial "Linguistically Motivated Neural Machine Translation" in The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
+The official repo for the tutorial "**Linguistically Motivated Neural Machine Translation**" in The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
 
+<img src="fig/logo.png" alt="logo" width="1000">
 
 ## Introduction
 
