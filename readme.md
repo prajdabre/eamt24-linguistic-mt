@@ -31,7 +31,7 @@ For machine translation (MT) tasks, purely data-driven approaches have been domi
 7. **Summary and Conclusion**
 8. **Discussion and Q/A**
 
-### Reading List
+### 📖 Reading List
 
 #### 1. Introduction to Neural Machine Translation
 1. [Neural Machine Translation: Basics, Practical Aspects and Recent Trends](https://aclanthology.org/I17-5004.pdf) - Dabre et al., 2017
@@ -95,3 +95,12 @@ Hikaridai 3-5, Seika-cho, Soraku-gun, Kyoto, Japan
 - Haiyue Song: [haiyue.song@nict.go.jp](mailto:haiyue.song@nict.go.jp)  
 - Hour Kaing: [hour_kaing@nict.go.jp](mailto:hour_kaing@nict.go.jp)  
 - Raj Dabre: [raj.dabre@nict.go.jp](mailto:raj.dabre@nict.go.jp)
+
+### Citation (bib)
+```
+@article{linguistic-mt24,
+  title={Linguistically Motivated Neural Machine Translation},
+  author={Song, Haiyue and Kaing, Hour and Dabre, Raj},
+  booktitle={The 25th Annual Conference of the European Association for Machine Translation (EAMT 2024)},
+  year={2024}
+}
