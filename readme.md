@@ -3,16 +3,30 @@ The official repo for the tutorial "**Linguistically Motivated Neural Machine Tr
 
 <img src="fig/logo.png" alt="logo" width="1000">
 
-## Introduction
-
-This repository contains a comprehensive reading list for the tutorial on "Linguistically Motivated Neural Machine Translation." The tutorial focuses on incorporating linguistics into different stages of the neural machine translation (NMT) pipeline, from pre-processing to model training to evaluation.
-
 ## Presenters
 | | |
 |-|-|
 | <img src="fig/song.png" alt="Haiyue Song" width="1000"> | <a href="https://shyyhs.github.io/" style="color:#D42D50; text-decoration: underline;">**Haiyue Song**</a> is a technical researcher at the Advanced Translation Technology Laboratory, National Institute of Information and Communications Technology (NICT), Japan. He obtained his Ph.D. at Kyoto University. His research interests include machine translation, large language models, subword segmentation, and decoding algorithms. He has MT and LLMs related publications in TALLIP, AACL, LREC, ACL, and EMNLP. |
 | ![Hour Kaing](fig/hour.jpg) | <a href="https://scholar.google.com/citations?user=zJ0wGWoAAAAJ&hl=en" style="color:#D42D50; text-decoration: underline;">**Hour Kaing**</a> is a researcher at the Advanced Translation Technology Laboratory, National Institute of Information and Communications Technology (NICT), Japan. He received his B.S. from Institute of Technology of Cambodia, Cambodia, his M.Sc from University of Grenoble 1, France, and his Ph.D. from NARA Institute of Science and Technology, Japan. He is interested in linguistic analysis, low-resource machine translation, language modeling, and speech processing. He has publications in TALLIP, EACL, PACLIC, LREC, and IWSLT. |
 | ![Raj Dabre](fig/raj.jpg) | <a href="https://prajdabre.github.io/" style="color:#D42D50; text-decoration: underline;">**Raj Dabre**</a> is a senior researcher at the Advanced Translation Technology Laboratory, National Institute of Information and Communications Technology (NICT), Japan and an Adjunct Faculty at IIT Madras, India. He received his Ph.D. from Kyoto University and Masters from IIT Bombay. His primary interests are in low-resource NLP, language modeling and efficiency. He has published in ACL, EMNLP, NAACL, TMLR, AAAI, AACL, IJCNLP and CSUR. |
+
+## Programme
+#### **Date**: JUNE 27, 2024 (Thursday)
+| Time        |                                                                | 
+| -------------------- | ---------------------------------------------------------------------------------- | 
+| 9:00-9:20   | Introduction                                                   | 
+| 9:20-10:20  | Augmenting NMT Architectures with Lin-<br>guistic Features     | 
+| 10:20-10:50 | Coffee break                                                   | 
+| 10:50-11:20 | Linguistically Motivated Tokenization and<br>Transfer Learning | 
+| 11:20-11:40 | Linguistically Aware Decoding                                  | 
+| 11:40-12:00 | Linguistically Motivated Evaluation                            | 
+| 12:00-12:15 | Conclusions                                                    | 
+| 12:15-12:30 | QA                                                             | 
+
+
+
+## Introduction
+The tutorial focuses on incorporating linguistics into different stages of the neural machine translation (NMT) pipeline, from pre-processing to model training to evaluation.
 
 ## Tutorial Overview
 
