@@ -6,9 +6,9 @@ The official repo for the tutorial "**Linguistically Motivated Neural Machine Tr
 ## Slides 
 | | |
 |-|-|
-| <img src="fig/0_1_intro.png" alt="Part 1 Introduction" width="500"> | Part 1: Introduction [slide](slide/part_1_intro.pdf) |
-| <img src="fig/0_2_encoder.png" alt="Part 2 Encoder" width="500"> | Part 2: Linguistic Features and Encoder [slide](slide/part_2_encoder.pdf) |
-| <img src="fig/0_3_subword.png" alt="Part 3 Subword, Decoder, Evaluation" width="500"> | Part 3: Suword, Decoder, Evaluation [slide](slide/part_3_subword.pdf) |
+| <img src="fig/0_1_intro.png" alt="Part 1 Introduction" width="400"> | Part 1: Introduction [slide](slide/part_1_intro.pdf) |
+| <img src="fig/0_2_encoder.png" alt="Part 2 Encoder" width="400"> | Part 2: Linguistic Features and Encoder [slide](slide/part_2_encoder.pdf) |
+| <img src="fig/0_3_subword.png" alt="Part 3 Subword, Decoder, Evaluation" width="400"> | Part 3: Suword, Decoder, Evaluation [slide](slide/part_3_subword.pdf) |
 
 
 ## Presenters
